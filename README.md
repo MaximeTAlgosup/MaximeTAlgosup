@@ -2,7 +2,7 @@
 
 <h4 align="center"> Currently studying at <a href="https://algosup.com">ALGOSUP</a>, I study computer science in its various aspects, but more specifically development.</h4>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=MaximeTAlgosup&color=blueviolet&style=plastic" alt="Maxime views on profile" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=MaximeTAlgosup&color=yellow&style=plastic" alt="Maxime views on profile" /> </p>
 
 - 🔭 My current school project is [**Adopte Un Candidat**](https://github.com/algosup/2023-2024-project-5-flutter-team-8)
 
