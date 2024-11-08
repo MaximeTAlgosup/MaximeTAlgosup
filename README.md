@@ -4,7 +4,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=MaximeTAlgosup&color=yellow&style=plastic" alt="Maxime views on profile" /> </p>
 
-- 🔭 My current school project is [**Adopte Un Candidat**](https://github.com/algosup/2023-2024-project-5-flutter-team-8)
+- 🔭 My current school project is [**EcoQuest**](https://github.com/algosup/2024-2025-project-2-serious-game-team-8)
 
 <br>
 <hr>
