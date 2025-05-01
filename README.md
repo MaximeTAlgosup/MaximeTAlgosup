@@ -4,7 +4,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=MaximeTAlgosup&color=yellow&style=plastic" alt="Maxime views on profile" /> </p>
 
-- 🔭 My current school project is [**EcoQuest**](https://github.com/algosup/2024-2025-project-2-serious-game-team-8)
+- 🔭 My current school project is [**Bubble Intermarché**](https://github.com/algosup/2024-2025-project-5-bubble-intermarche-team-8)
 
 <br>
 <hr>
@@ -14,14 +14,19 @@
 <div align="center" style="margin-bottom:200px">
  <img width=75% align="center" src="https://github-readme-stats.vercel.app/api?username=MaximeTAlgosup&show_icons=true&theme=great-gatsby" alt="Maxime contributions" />
  <!-- <img width=30.7% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaximeTAlgosup&show_icons=true&locale=en&layout=donut&theme=great-gatsby" alt="Maxime most used langages" /> -->
- <div>
+ <!-- <div>
     <img width=75.7% src="https://github-readme-streak-stats.herokuapp.com?user=MaximeTAlgosup&theme=great-gatsby" alt="Maxime Contribution">
- </div>
+ </div> -->
 </div>
 
-<!-- <details open>
+<details open>
   <summary><h2>📕 Personal Projects</h2></summary>
-</details> -->
+
+  <p align="left">
+    <a href="https://github.com/MaximeTAlgosup/Moonshot_Project"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MaximeTAlgosup&repo=Moonshot_Project&theme=great-gatsby&hide_border=false&show_icons=true" alt="AfterWord"></a>
+
+  </p>
+</details>
 
 <br>
 
@@ -56,14 +61,18 @@
 
 [<img height="48px" width="48px" alt="Icone HTML" src="https://skillicons.dev/icons?i=html"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [<img height="48px" width="48px" alt="Icone CSS" src="https://skillicons.dev/icons?i=css"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[<img height="48px" width="48px" alt="Icone JS" src="https://skillicons.dev/icons?i=js"/>](https://developer.mozilla.org/fr/docs/Web/JavaScript)
 [<img height="48px" width="48px" alt="Icone C" src="https://skillicons.dev/icons?i=c"/>](https://en.wikipedia.org/wiki/C_(programming_language))
 [<img height="48px" width="48px" alt="Icone C++" src="https://skillicons.dev/icons?i=cpp"/>](https://cplusplus.com/)
 [<img height="48px" width="48px" alt="Icone Arduino" src="https://skillicons.dev/icons?i=arduino"/>](https://www.arduino.cc/)
+[<img height="48px" width="48px" alt="Icone Flutter" src="https://skillicons.dev/icons?i=flutter"/>](https://flutter.dev/)
+[<img height="48px" width="48px" alt="Icone Dart" src="https://skillicons.dev/icons?i=dart"/>](https://dart.dev/)
+[<img height="48px" width="48px" alt="Icone GODOT" src="https://skillicons.dev/icons?i=godot"/>](https://godotengine.org)
+[<img height="48px" width="48px" alt="Icone NodeJS" src="https://skillicons.dev/icons?i=nodejs"/>](https://nodejs.org/en)
 
   <h3>📚 Studying in this moment:</h3>
 
-[<img height="48px" width="48px" alt="Icone Flutter" src="https://skillicons.dev/icons?i=flutter"/>](https://flutter.dev/)
-[<img height="48px" width="48px" alt="Icone Dart" src="https://skillicons.dev/icons?i=dart"/>](https://dart.dev/)
+[<img height="48px" width="48px" alt="Icone React" src="https://skillicons.dev/icons?i=react"/>](https://react.dev)
 
   <h3>🧰 Tools:</h3>
 
@@ -75,6 +84,8 @@
 [<img height="48px" width="48px" alt="Icone Windows" src="https://skillicons.dev/icons?i=windows"/>](https://www.microsoft.com/en-us/windows)
 [<img height="48px" width="48px" alt="Icone Figma" src="https://skillicons.dev/icons?i=figma"/>](https://www.figma.com/fr-fr/)
 [<img height="48px" width="48px" alt="Icone Markdown" src="https://skillicons.dev/icons?i=md"/>](https://www.markdownguide.org/)
+[<img height="48px" width="48px" alt="Icone Vite" src="https://skillicons.dev/icons?i=vite"/>](https://vite.dev)
+[<img height="48px" width="48px" alt="Icone Apple" src="https://skillicons.dev/icons?i=apple"/>](https://www.apple.com)
 
 </details>
 
