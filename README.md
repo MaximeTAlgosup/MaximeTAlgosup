@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=MaximeTAlgosup&color=yellow&style=plastic" alt="Maxime views on profile"/>
 </p>
 
-I don't have a curent project, but you can see many of them hereunder:
+I don't have a current project at the moment. However, on this page, you can find my [Personal Projects](#-personal-projects), [Learning Projects](#-school-learning-projects), [Projects I worked on within ALGOSUP](#-algosup-projects-i-worked-on), and [Organization Projects](#-woopsie-creations-projects) that I contributed to.
 
 ---
 
